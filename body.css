@@ -17,7 +17,7 @@ body {
   border: 10px solid #95b8d1;
   margin: 60px auto 0 auto;
   box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
-  background-image: linear-gradient(to bottom, rgba(255, 255, 255), rgba(255, 255, 255, 0.5)), url("IMG_20251020_135534.jpg");
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255), rgba(255, 255, 255, 0.5)), url("IMG_20251020_135549.jpg");
 
   background-position: center;
   /* Center the image */
@@ -121,3 +121,4 @@ body {
   border-radius: 5px;
 
 }
+
